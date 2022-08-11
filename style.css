@@ -1,0 +1,9 @@
+body{
+	background-color: blue;
+	color: white;
+	padding: 10px;
+}
+
+#reviews {
+	clear: both;
+}
